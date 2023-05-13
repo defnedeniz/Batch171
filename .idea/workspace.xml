@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94da9c11-f941-47de-873e-34775a7fd2c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day04scannerwrapper/HomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day04scannerwrapper/Scanner01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day04scannerwrapper/Scanner02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day04scannerwrapper/Scanner03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day04scannerwrapper/Scanner04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day04scannerwrapper/Scanner05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day04scannerwrapper/WrapperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day05concatinationoperatorstypecasting/AsciiValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day05concatinationoperatorstypecasting/Concatination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day05concatinationoperatorstypecasting/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day05concatinationoperatorstypecasting/TypeCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day06swapvaluesstringmanipulations/StringManipulations01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day06swapvaluesstringmanipulations/StringManipulations02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day06swapvaluesstringmanipulations/SwapValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulations01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulations02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulations03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day08stringmanipulationmemoryusageifstatement/IfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day08stringmanipulationmemoryusageifstatement/StringManipulation01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day08stringmanipulationmemoryusageifstatement/StringManipulation02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,20 +51,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HomeWork">
-    <configuration name="AsciiValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05concatinationoperatorstypecasting.AsciiValue" />
-      <module name="Batch171" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day05concatinationoperatorstypecasting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.IfStatements">
     <configuration name="HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day04scannerwrapper.HomeWork" />
       <module name="Batch171" />
@@ -86,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scanner04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04scannerwrapper.Scanner04" />
+    <configuration name="IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day08stringmanipulationmemoryusageifstatement.IfStatements" />
       <module name="Batch171" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04scannerwrapper.*" />
+          <option name="PATTERN" value="day08stringmanipulationmemoryusageifstatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +91,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04scannerwrapper.WrapperClass" />
+    <configuration name="StringManipulation01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day08stringmanipulationmemoryusageifstatement.StringManipulation01" />
       <module name="Batch171" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04scannerwrapper.*" />
+          <option name="PATTERN" value="day08stringmanipulationmemoryusageifstatement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringManipulation02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day08stringmanipulationmemoryusageifstatement.StringManipulation02" />
+      <module name="Batch171" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day08stringmanipulationmemoryusageifstatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IfStatements" />
+        <item itemvalue="Application.StringManipulation02" />
+        <item itemvalue="Application.StringManipulation01" />
         <item itemvalue="Application.HomeWork" />
         <item itemvalue="Application.Scanner05" />
-        <item itemvalue="Application.AsciiValue" />
-        <item itemvalue="Application.WrapperClass" />
-        <item itemvalue="Application.Scanner04" />
       </list>
     </recent_temporary>
   </component>
