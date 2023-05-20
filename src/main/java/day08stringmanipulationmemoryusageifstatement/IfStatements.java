@@ -24,7 +24,7 @@ public class IfStatements {
 
         //Ornek2:sayi -1 ile 10 arasindaysa ekrana "Rakam " yazdırın
 
-        int n = 5;
+        int n = -5;
 
         if (n > -1 && n < 10) {
             System.out.println("Rakam");
