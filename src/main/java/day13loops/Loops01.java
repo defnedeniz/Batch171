@@ -50,7 +50,7 @@ public class Loops01 {
         System.out.println();
         //Ornek 4: 18 den 56 ya kadar tum tek sayilari ekrana yazdiran kodu yaziniz.
         for( int i=18   ; i<57  ; i++  ){
-            if(i%2!=0){
+            if(i%2!=0){ // if(i%2==1 bu sekıdle de olur
                 System.out.print(i+" ");
             }
 
