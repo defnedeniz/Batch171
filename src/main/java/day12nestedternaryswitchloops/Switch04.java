@@ -4,52 +4,66 @@ import java.util.Scanner;
 
 public class Switch04 {
     public static void main(String[] args) {
-        /*
-             Ask user to enter country name among "America, England, Germany, Turkey, India, Peru, Spain, Bulgaria, Albania, France"
-            Type code to print abbreviation(Kisaltma) of the countries. "US, UK, DE, TR, IN, PE, ES, BG, AL, FR"
+/*
+     Ask user to enter country name among "America, England, Germany, Turkey, India, Peru, Spain, Bulgaria, Albania, France"
+     Type code to print abbreviation(Kisaltma) of the countries. "US, UK, DE, TR, IN, PE, ES, BG, AL, FR"
 
-            kullanicidan bir ulke ismi aliniz. Alinan ulke adina gore kisaltmalari yazdiriniz.
-         */
+     Kullanicidan bir ulke ismi aliniz. Alinan ulke adina gore kisaltmalari yazdiriniz.
+*/
+
+
         Scanner input = new Scanner(System.in);
-        System.out.println("Ulke adi giriniz...");
+        System.out.println("Lutfen bir ulke ismi giriniz America, England, Germany, Turkey, India, Peru, Spain, Bulgaria, Albania, France ");
         String countryName = input.nextLine();
 
-        switch (countryName.toLowerCase()){
+        switch (countryName.trim().toLowerCase()) {
             case "america":
                 System.out.println("US");
                 break;
-            case  "england":
+            case "england":
                 System.out.println("UK");
                 break;
-            case  "germany":
+            case "germany":
                 System.out.println("DE");
                 break;
-            case  "turkey":
+            case "turkey":
                 System.out.println("TR");
                 break;
-            case  "india":
+            case "india":
                 System.out.println("IN");
                 break;
-            case  "peru":
+            case "peru":
                 System.out.println("PE");
                 break;
-            case  "spain":
+            case "spain":
                 System.out.println("ES");
                 break;
-            case  "bulgaria":
+            case "bulgaria":
                 System.out.println("BG");
                 break;
-            case  "albania":
+            case "albania":
                 System.out.println("AL");
                 break;
-            case  "france":
+            case "france":
                 System.out.println("FR");
                 break;
             default:
-                System.out.println("Bu ulke tanimli degildir");
+                System.out.println("Lutfen gecerli bir ulke ismi giriniz");
 
-        }
+        }}}
 
+        /*
+        1) Github ta bulunan projeyi kendi lokalimize almak icin;
+          a) Clone lanmak istenen projenin url i kopyalanir.
+          b) Intellij den file + new + project from version control
 
-    }
-}
+          bundan sonra codelari intellij uzerinden terminal acilarak -git pull denilerek kendi lokalimize cekebiliriz
+
+        2) Kendi lokalimize almis oldugumuz projeyi Git hub ta saklamak icin;
+          a) Git hub ta yeni bir repo olusturulacak, bunun icin repositories e tiklayin, sag ust kosede yesil new'e tiklayin
+          b) Acilan sayfada bir isimlendirme yapilarak repo public mi olsun private mi olsun karar verilecek ve create tiklanacak.
+          c) Acilan yeni bos repo sayfasindan url kopyalanacak
+          d) Intellij den gondermek istedigimiz proje acik iken terminal kismi acilacak
+          e) git push (=>url<=) copy + paste yapilarak enter yapacaksiniz
+
+         */
