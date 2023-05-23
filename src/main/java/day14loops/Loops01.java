@@ -41,5 +41,22 @@ public class Loops01 {
             System.out.println(duz+" : Palindrome degildir");
         }
 
+        String duz1 = "Ey edip adanada pide ye";
+        String ters4 = "";
+
+        for (int i=duz.length()-1 ; i>=0; i--  ){
+            ters3=ters3+duz.charAt(i);
+        }
+        System.out.println(ters3);
+
+        if(duz.equalsIgnoreCase(ters3)){
+            System.out.println("Palindrome dur");
+        }else{
+            System.out.println("Palindrome degildir");
+        }
+
+
+
     }
 }
+
