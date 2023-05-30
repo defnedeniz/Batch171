@@ -17,10 +17,10 @@ public class NestedLoop {
         int row = input.nextInt();
 
 
-        for (int i = 1; i <= row;              i++) {
+        for (int i = 1; i <= row; i++) {
 
-            for (int k = 1; k <=i ;          k++) {
-                System.out.print(k+" ");
+            for (int k = 1; k <= i; k++) {
+                System.out.print(k + " ");
             }
             System.out.println();//tek gorevi inner loop tamamlandiktan sonra pointeri bir sonraki satira almak
         }

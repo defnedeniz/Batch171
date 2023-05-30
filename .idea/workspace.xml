@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94da9c11-f941-47de-873e-34775a7fd2c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day15loops/DoWhileLoop01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day15loops/DoWhileLoop02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day15loops/DoWhileLoop03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day15loops/NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16arraysforeachloop/Arrays01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16arraysforeachloop/Arrays02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16arraysforeachloop/Arrays03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17arrays/Arrays01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day15loops/NestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day15loops/NestedLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,33 +50,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Loops01">
-    <configuration name="IfStatements03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10ifstatements.IfStatements03" />
-      <module name="Batch171" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day10ifstatements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IfStatements04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10ifstatements.IfStatements04" />
-      <module name="Batch171" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day10ifstatements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WhileLoop02">
     <configuration name="Loops01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day13loops.Loops01" />
       <module name="Batch171" />
@@ -115,13 +90,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhileLoop01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day15loops.WhileLoop01" />
+      <module name="Batch171" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day15loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileLoop02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day15loops.WhileLoop02" />
+      <module name="Batch171" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day15loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhileLoop02" />
+        <item itemvalue="Application.WhileLoop01" />
         <item itemvalue="Application.Loops01" />
         <item itemvalue="Application.Switch01" />
         <item itemvalue="Application.NestedTernary01" />
-        <item itemvalue="Application.IfStatements04" />
-        <item itemvalue="Application.IfStatements03" />
       </list>
     </recent_temporary>
   </component>
