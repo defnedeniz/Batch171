@@ -28,7 +28,9 @@ public class Arrays01 {
         stdNames [3] ="Cuneyt";
         stdNames [2] ="Tom";
         stdNames [1] ="Ayhan";
-        stdNames [4] ="Filiz";System.out.println(Arrays.toString(stdNames));
+        stdNames [4] ="Filiz";
+
+        System.out.println(Arrays.toString(stdNames));
 
         //[Ajda, Ayhan, Tom, Cuneyt, Filiz]
         for(String w: stdNames){
