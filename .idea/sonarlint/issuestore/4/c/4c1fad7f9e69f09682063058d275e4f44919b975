@@ -1,0 +1,10 @@
+
+i
+java:S1104"SMake stdName a static final constant or non-public and provide accessors if needed.(ÍïñŠ
+e
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(Éı£
+C
+java:S1444"-Make this "public static stdName" field final(ÍïñŠ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹‡Ş÷ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÊ‡•
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹ûÇşûÿÿÿÿ

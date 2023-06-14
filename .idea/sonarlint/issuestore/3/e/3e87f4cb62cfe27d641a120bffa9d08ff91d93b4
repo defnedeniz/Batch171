@@ -1,0 +1,7 @@
+
+Å
+java:S1598"¢This file "ArrayList01.java" should be located in "day22arraylistsdatetime" directory, not in "C:\Users\Esad\IdeaProjects\Batch171\src\main\java\day21arraylists".(¶’‰éúÿÿÿÿ8Ì¤ø†‹1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶’‰éúÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Œ­ÿ…8¥ø†‹1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(èÌ„¾øÿÿÿÿ8ƒ¥ø†‹1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ƒ¸­üÿÿÿÿÿ8ƒ¥ø†‹1

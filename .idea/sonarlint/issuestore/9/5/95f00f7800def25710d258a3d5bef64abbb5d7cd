@@ -1,0 +1,20 @@
+
+i
+java:S1192/"GDefine a constant instead of duplicating this literal "Yozgat" 3 times.(Ú°ÖÛùÿÿÿÿ8·ƒÙ‰1
+k
+java:S1192."IDefine a constant instead of duplicating this literal "Istanbul" 4 times.(ĞéÜĞøÿÿÿÿ8¸ƒÙ‰1
+c
+java:S1192-"FDefine a constant instead of duplicating this literal "Miami" 3 times.(¹Éü·8¸ƒÙ‰1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖŒ€œ8ºƒÙ‰1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨çÊšøÿÿÿÿ8ÕƒÙ‰1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(Á¬¬ê8×ƒÙ‰1
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(øÿâÿÿÿÿÿ8ÚƒÙ‰1
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(İ‘¨¡ùÿÿÿÿ8ÛƒÙ‰1
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(¯›‚°şÿÿÿÿ8İƒÙ‰1
+]	java:S1258"<This block of commented-out lines of code should be removed.(İ‘¨¡ùÿÿÿÿ8İƒÙ‰1
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(Ì‚Îîøÿÿÿÿ8İƒÙ‰1
+X	java:S125P"<This block of commented-out lines of code should be removed.(Í¦ıÉ8áƒÙ‰1
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(Àê©ïşÿÿÿÿ8âƒÙ‰1
+X	java:S125Y"<This block of commented-out lines of code should be removed.(”ÅÉÒ8âƒÙ‰1
+X	java:S125]"<This block of commented-out lines of code should be removed.(°©™˜8âƒÙ‰1
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(Ì‚Îîøÿÿÿÿ8åƒÙ‰1

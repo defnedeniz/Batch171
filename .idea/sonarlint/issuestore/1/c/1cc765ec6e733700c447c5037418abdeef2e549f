@@ -1,0 +1,22 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Şûš8àªÔ‰1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖŒ€œ8äªÔ‰1
+X	java:S125"<This block of commented-out lines of code should be removed.(ç‡æê8üªÔ‰1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Àê©ïşÿÿÿÿ8‡«Ô‰1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(”‘Ûùÿÿÿÿ8‰«Ô‰1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(áãÜŸûÿÿÿÿ8Š«Ô‰1
+T	java:S1061"9Replace this use of System.out or System.err by a logger.(›œ±f8‹«Ô‰1
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(Àê©ïşÿÿÿÿ8‹«Ô‰1
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(ÈË³ç8Œ«Ô‰1
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(©É…¿8Œ«Ô‰1
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(Àê©ïşÿÿÿÿ8«Ô‰1
+]	java:S125F"<This block of commented-out lines of code should be removed.(½‡±Ôÿÿÿÿÿ8«Ô‰1
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(ÿş«Ä8«Ô‰1
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(Æ¶·ä8«Ô‰1
+`
+java:S1155[">Use isEmpty() to check whether the collection is empty or not.(Å¹„şÿÿÿÿ8’«Ô‰1
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(ˆê‹¼ùÿÿÿÿ8’«Ô‰1
+Z	java:S106^"9Replace this use of System.out or System.err by a logger.(¶÷ßËüÿÿÿÿ8’«Ô‰1
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(ˆê‹¼ùÿÿÿÿ8“«Ô‰1
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(¶÷ßËüÿÿÿÿ8”«Ô‰1
