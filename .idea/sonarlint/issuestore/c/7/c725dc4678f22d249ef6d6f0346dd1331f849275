@@ -1,0 +1,6 @@
+
+p
+java:S1104"SMake stdName a static final constant or non-public and provide accessors if needed.(ª®–‘8¦Ÿ€Ú‹1
+l
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(üìÉ¸8§Ÿ€Ú‹1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´¦Ò·þÿÿÿÿ8©Ÿ€Ú‹1
