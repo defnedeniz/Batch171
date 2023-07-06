@@ -1,0 +1,22 @@
+
+f
+java:S1192
+"IDefine a constant instead of duplicating this literal "Abdullah" 5 times.(Ü¶™–8­ãÖØ‘1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü„Å£8®ãÖØ‘1
+a
+java:S4143"DVerify this is the key that was intended; it was already set before.(ˆ×É÷8»ãÖØ‘1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÓØ|8¾ãÖØ‘1
+W	java:S125"<This block of commented-out lines of code should be removed.(ÕÓØ|8¿ãÖØ‘1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Õß‡éúÿÿÿÿ8¿ãÖØ‘1
+]	java:S125"<This block of commented-out lines of code should be removed.(Õß‡éúÿÿÿÿ8¿ãÖØ‘1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µƒºÖıÿÿÿÿ8ÀãÖØ‘1
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(µƒºÖıÿÿÿÿ8ÀãÖØ‘1
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ó›ë‘8ÀãÖØ‘1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(İä›Ğùÿÿÿÿ8ÁãÖØ‘1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(·¡†ışÿÿÿÿ8ÁãÖØ‘1
+T	java:S106+"9Replace this use of System.out or System.err by a logger.(æºå78ÂãÖØ‘1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ö¡€àøÿÿÿÿ8ÃãÖØ‘1
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(Â¥ó·8ÃãÖØ‘1
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(Ë¤˜Îúÿÿÿÿ8ÄãÖØ‘1
+]	java:S1256"<This block of commented-out lines of code should be removed.(Ë¤˜Îúÿÿÿÿ8ÅãÖØ‘1
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(µƒºÖıÿÿÿÿ8ÅãÖØ‘1

@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94da9c11-f941-47de-873e-34775a7fd2c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day30maps/HashMap01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day30maps/HashMap02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day30maps/HashMap03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day31mapsexceptions/E01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day31mapsexceptions/E02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day31mapsexceptions/E03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day31mapsexceptions/E04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day31mapsexceptions/E05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day31mapsexceptions/HashMap01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day31mapsexceptions/Hashtable01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day31mapsexceptions/TreeMap01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day32exceptions/E01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day32exceptions/E02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day32exceptions/E03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day32exceptions/E04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day32exceptions/E05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day32exceptions/E06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day32exceptions/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day33exceptionsenumsiterator/Cities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day33exceptionsenumsiterator/EnumRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day33exceptionsenumsiterator/ExceptionRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day33exceptionsenumsiterator/InvalidNumberException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day33exceptionsenumsiterator/InvalidStudentGradeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day33exceptionsenumsiterator/Iterators01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day34lambda/Lambda01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day35lambda/Lambda01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
